@@ -737,7 +737,7 @@ border-radius: 100%;
        .skills .skills-content .card{
        
         width:500px;
-        height:200px;
+        height:225px;
         background:#222;
         text-align:center;
         border-radius:7px;
@@ -799,6 +799,10 @@ border-radius: 100%;
     
         
     }
+
+    .link .link-content a{
+   font-size: 18px;
+  }
 
   }
 
